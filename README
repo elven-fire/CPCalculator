@@ -1,0 +1,5 @@
+CPCalculator is a simple, graphical utility created for the Elven Fire fantasy adventure game, to quickly calculate Combat Power for customized creatures.
+
+CPCalculator is built with:
+  Python 3.3.4
+  PyQt 4.10.4
